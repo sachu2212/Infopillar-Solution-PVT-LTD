@@ -7,3 +7,6 @@ This repository contains the tasks that I'm completing while working as an inter
 
 # Task-1: Loan Prediction using Machine Learning.
 _Worked with this dataset: https://bit.ly/30kXsVT_
+
+# Task-2: Fake News Detection.
+_Worked with this dataset: https://bit.ly/3qRDIol_
