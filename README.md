@@ -10,3 +10,6 @@ _Worked with this dataset: https://bit.ly/30kXsVT_
 
 # Task-2: Fake News Detection.
 _Worked with this dataset: https://bit.ly/3qRDIol_
+
+# Task-3: Iris Flower Classification.
+_Worked with this dataset: https://bit.ly/3FF2zjg_
