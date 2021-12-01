@@ -1,6 +1,6 @@
 # Infopillar-Solution-PVT-LTD
 
-This repository contains the tasks that I'm completing while working as an intern for @Infopillar Soution PVT LTD.
+This repository contains the tasks that I'm completed successfully while working as an intern for @Infopillar Soution PVT LTD.
 
 * Internship Category - Machine Learning Intern
 * Internship Type - Remote
